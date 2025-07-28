@@ -3,6 +3,7 @@ package org.example.dictali;
 public class Slowed {
     public static void main(String[] args) throws InterruptedException {
         String[][] lines = {
+                //refwefcewfdc
                 {"I know, I know", "100"},
                 {"And thinking all you need is there", "80"},
                 {"Building faith on love and words", "50"},
@@ -32,4 +33,5 @@ public class Slowed {
             Thread.sleep(delays[i]);
         }
     }
+   //grfvbserdfesv
 }
